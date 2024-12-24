@@ -1,0 +1,37 @@
+.anchor{
+    color: black;
+    text-decoration: none;
+}
+.span{
+    color: red;
+    border: 2px solid black;
+    display: inline-block;
+}
+.kabul{
+    color: blue;
+    background-color: green;
+    visibility:hidden;
+}
+.second-para{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.third{
+    /* background-color: blue; */
+    background: linear-gradient(to right, blue, black, red, violet);
+    border: 3px solid black;
+    color:white;
+    padding: 30px;
+    margin: 50px;
+    border-radius: 15px;
+    box-shadow: 10px 15px 15px rgb(17, 17, 105);
+}
+.ankon{
+    /* background-color: yellow; */
+    background: linear-gradient(to right, lawngreen, hotpink, orangered, red);
+    color: black ;
+    border: 3px solid black;
+    padding: 30px;
+    margin: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 15px 15px darkgreen;
+}
